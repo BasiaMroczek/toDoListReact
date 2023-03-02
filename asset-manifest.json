@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BasiaMroczek/toDoListReact/static/css/main.b0671a38.css",
+    "main.js": "/BasiaMroczek/toDoListReact/static/js/main.c9d1bc3e.js",
+    "static/js/787.d93b6323.chunk.js": "/BasiaMroczek/toDoListReact/static/js/787.d93b6323.chunk.js",
+    "index.html": "/BasiaMroczek/toDoListReact/index.html",
+    "main.b0671a38.css.map": "/BasiaMroczek/toDoListReact/static/css/main.b0671a38.css.map",
+    "main.c9d1bc3e.js.map": "/BasiaMroczek/toDoListReact/static/js/main.c9d1bc3e.js.map",
+    "787.d93b6323.chunk.js.map": "/BasiaMroczek/toDoListReact/static/js/787.d93b6323.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0671a38.css",
+    "static/js/main.c9d1bc3e.js"
+  ]
+}
