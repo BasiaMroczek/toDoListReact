@@ -1,0 +1,36 @@
+.buttons {
+    display: flex;
+    flex-wrap: row;
+}
+
+.buttons__button {
+    color: #008080;
+    background: transparent;
+    border: none;
+    margin: 0 0 0 20px;
+    transition: color 0.3s;
+}
+
+.buttons__button:hover {
+    color: hsl(180, 100%, 35%);
+    background-color: #ffffff;
+    transform: scale(1.1);
+}
+
+.buttons__button:active {
+    background: hsl(180, 100%, 35%);
+}
+
+.buttons__button:disabled {
+    color: #ccc;
+}
+
+@media (max-width: 767px) {
+
+    .buttons__button {
+        flex-basis: 100%;
+        margin: 10px;
+        display: flex;
+        flex-wrap: row;
+    }
+}
