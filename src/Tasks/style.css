@@ -24,6 +24,7 @@ li {
 
 .tasks__button--toggleDone {
     background-color: #008000;
+    
 }
 
 .tasks__button--toggleDone:hover {
@@ -38,10 +39,10 @@ li {
     background-color: #e00000;
 }
 
-.list__item {
+.tasks__content {
     margin-right: 10px;
 }
 
-.list__item--done {
+.tasks__content--done {
     text-decoration: line-through;
 }
