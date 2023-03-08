@@ -1,6 +1,7 @@
 .buttons {
     display: flex;
     flex-wrap: row;
+    justify-content: center;
 }
 
 .buttons__button {
@@ -28,9 +29,10 @@
 @media (max-width: 767px) {
 
     .buttons__button {
+        display: flex;
         flex-basis: 100%;
         margin: 10px;
-        display: flex;
-        flex-wrap: row;
+        flex-wrap: center;
+        justify-content: center;
     }
 }
