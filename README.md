@@ -24,4 +24,4 @@ This app will help you plan your day.
 https://basiamroczek.github.io/toDoListReact/
 
 ## Aplication view
-https://i.postimg.cc/WbJsgcvW/Todo-List-View.jpg
+<img src="https://i.postimg.cc/WbJsgcvW/Todo-List-View.jpg"></img>
